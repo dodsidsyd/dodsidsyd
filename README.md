@@ -6,7 +6,7 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
-
+https://simpleicons.org/
 <!--
 **dodsidsyd/dodsidsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
