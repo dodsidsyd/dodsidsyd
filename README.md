@@ -1,4 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=JongwOOn👋‍️&fontSize=50&animation=twinkling&fontAlignY=35)
+
 ### Hi there 👋
+
+
 
 <!--
 **dodsidsyd/dodsidsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
