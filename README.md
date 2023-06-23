@@ -13,6 +13,8 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 </div>
+[go](http://simpleicons.org){:target="_blank"}
+[go](http://dillinger.io){:target="_blank"}
 <a href="https://simpleicons.org/" target="_blank">https://simpleicons.org/</a>
 <a href="https://dillinger.io/" target="_blank">https://dillinger.io/</a>
 <!--
