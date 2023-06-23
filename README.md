@@ -13,11 +13,9 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 </div>
-[go](http://simpleicons.org)
-[go](http://dillinger.io)
-<a href="https://google.com" target="_blank" rel="noopener noreferrer">Google</a>
-<a href="https://simpleicons.org/" target="_blank">https://simpleicons.org/</a>
-<a href="https://dillinger.io/" target="_blank">https://dillinger.io/</a>
+https://simpleicons.org/
+<br>
+https://dillinger.io/
 <!--
 **dodsidsyd/dodsidsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
