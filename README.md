@@ -15,6 +15,7 @@
 </div>
 [go](http://simpleicons.org){:target="_blank"}
 [go](http://dillinger.io){:target="_blank"}
+<a href="https://google.com" target="_blank" rel="noopener noreferrer">Google</a>
 <a href="https://simpleicons.org/" target="_blank">https://simpleicons.org/</a>
 <a href="https://dillinger.io/" target="_blank">https://dillinger.io/</a>
 <!--
