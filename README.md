@@ -7,6 +7,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 https://simpleicons.org/
+https://dillinger.io/
 <!--
 **dodsidsyd/dodsidsyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
